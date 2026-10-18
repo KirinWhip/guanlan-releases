@@ -1,0 +1,11 @@
+{
+    "version":  "0.9.0",
+    "notes":  "观澜 0.9.0 试用版：素问的全部聊天功能 + 今日工作台（新闻速览、GitHub 与技能、国内热点、本机采集）。海外热点、需求雷达等在后续版本陆续开放，装好后会自动更新。",
+    "pub_date":  "2026-10-18T15:29:32Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUk8zbTJxRkMwUlBLb3VqOUFoNWp1R0dOc0ZSNVF2UnBPanY0ZVNuNXZrVFV6cVl1VXdmS2dyUGlIOUN3b0t5NmxRZENiZ1FSYVFPdmNWdWFqVnIxN1F6YkVYVnNGR1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzM3MzcyCWZpbGU66KeC5r6cXzAuOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMApnVGUrUEx2TlZWOFM5QXp3OWRjYkV0Ym9WRlVRMjVNYUk3UktnamUwUUlJNGhvdXhyREM4djk4dkhYRUNsQXQwMUFjWVo0RjhBNGFaVG9yTUhxR3JBQT09Cg==",
+                                             "url":  "https://github.com/KirinWhip/guanlan-releases/releases/download/v0.9.0/Guanlan_0.9.0_x64-setup.exe"
+                                         }
+                  }
+}
