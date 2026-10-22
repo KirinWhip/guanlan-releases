@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.1",
-    "notes":  "观澜 0.9.1：海外热点（YouTube、Reddit、TikTok、Google 热搜）和海外爆款商品（亚马逊、TikTok）上线，海外内容自动翻成中文；设置 → 工作台 → 海外来源 里填 YouTube 密钥、登录 TikTok。",
-    "pub_date":  "2026-10-22T09:36:06Z",
+    "version":  "0.9.2",
+    "notes":  "观澜 0.9.2：免费采集连续失败或用了付费兜底时，首页顶部黄色提示 + Windows 通知（同一原因每天一次）；设置页不再把已经过去的报错当成现在的错误；英国亚马逊默认类目改成力量训练器材。",
+    "pub_date":  "2026-10-22T11:10:40Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUk8zbTJxRkMwUkozSExiR1RzN0w1cXcybmxReEZ4OVlodjRHOWpxeklNVlNrUzdzdS9EdU96cVVGaFVncWhvV0RIQWt2cHZadlRSRG5seDJlaTVoTlNXQXgyRks0U2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjYxNzY2CWZpbGU66KeC5r6cXzAuOS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMQozRDU2L0xpREp2QitaNDJaUnZNMHpNZDFlSzVVM2ltYUt2Q2xIS25pd2E5OCtaRm5uQlNESk5Mc2R4ZVY1bk1vVlhlemg3ejNPVEZSMWthRDlLajREUT09Cg==",
-                                             "url":  "https://github.com/KirinWhip/guanlan-releases/releases/download/v0.9.1/Guanlan_0.9.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUk8zbTJxRkMwUkNRTHBjZjlCK3o4aW5TTDJHSERDbExPbkhtNWw4TGpGR2VLb0lQV3RPT244MW5HNnM3amhCL2ExTGoyaTFRdk1Ob2haRkNHejBkTjl4YTdRSnN5MmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY3NDQwCWZpbGU66KeC5r6cXzAuOS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMgpMMlplaWg3UWFoSW5LU1hYUzRGWkNIU1pNVHllSDJuSkpEVUdvaWdIMVdmdVdwcTFZbWNPT1hnYisvaDdGMDBHUGxYN1FtU0lEWWtRZ2JiOFJqY3lDdz09Cg==",
+                                             "url":  "https://github.com/KirinWhip/guanlan-releases/releases/download/v0.9.2/Guanlan_0.9.2_x64-setup.exe"
                                          }
                   }
 }
