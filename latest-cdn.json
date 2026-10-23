@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.2",
-    "notes":  "观澜 0.9.2：免费采集连续失败或用了付费兜底时，首页顶部黄色提示 + Windows 通知（同一原因每天一次）；设置页不再把已经过去的报错当成现在的错误；英国亚马逊默认类目改成力量训练器材。",
-    "pub_date":  "2026-10-22T11:10:40Z",
+    "version":  "0.9.3",
+    "notes":  "观澜 0.9.3：需求雷达（从爆款评论里挖需求卡，原话带出处、逐条核对、点子对题去重、海外原话附中文；高考志愿领域自动导出「家长最常问的问题」）、话题深挖（开始前显示调用和花费，简报每句带出处）、灵感库；每条内容都能深挖和收藏。",
+    "pub_date":  "2026-10-22T15:15:45Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUk8zbTJxRkMwUkNRTHBjZjlCK3o4aW5TTDJHSERDbExPbkhtNWw4TGpGR2VLb0lQV3RPT244MW5HNnM3amhCL2ExTGoyaTFRdk1Ob2haRkNHejBkTjl4YTdRSnN5MmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY3NDQwCWZpbGU66KeC5r6cXzAuOS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMgpMMlplaWg3UWFoSW5LU1hYUzRGWkNIU1pNVHllSDJuSkpEVUdvaWdIMVdmdVdwcTFZbWNPT1hnYisvaDdGMDBHUGxYN1FtU0lEWWtRZ2JiOFJqY3lDdz09Cg==",
-                                             "url":  "https://github.com/KirinWhip/guanlan-releases/releases/download/v0.9.2/Guanlan_0.9.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUk8zbTJxRkMwUkhQWlY2RmNqTnZ5TFNIdnY0bXBHTlJVUTZGSzBxa1ZzY0lqWWJ3QnRBT2hjVmFLZmxVMVFzR3I5MDZ4c0Z6WDVxNkQ2Qi85OHlZRG45R3hIRXhxdXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgyMTQ1CWZpbGU66KeC5r6cXzAuOS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMwpXWGQ2S1FaYlJleXIwUXZCNlB3b3VpWDZKZWhNaS9ZRUtQS1d6ZjNPem9EZnFjTW9rVCtJZzJIVmhIR2lndkJxUXg0VldPRWlyTDFjbnVyNWMxSjhBQT09Cg==",
+                                             "url":  "https://github.com/KirinWhip/guanlan-releases/releases/download/v0.9.3/Guanlan_0.9.3_x64-setup.exe"
                                          }
                   }
 }
