@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.3",
-    "notes":  "观澜 0.9.3：需求雷达（从爆款评论里挖需求卡，原话带出处、逐条核对、点子对题去重、海外原话附中文；高考志愿领域自动导出「家长最常问的问题」）、话题深挖（开始前显示调用和花费，简报每句带出处）、灵感库；每条内容都能深挖和收藏。",
-    "pub_date":  "2026-10-22T15:15:45Z",
+    "version":  "0.9.4",
+    "notes":  "观澜 0.9.4：找达人（原达人雷达搬进观澜：按关键词找 YouTube 博主、AI 挑词反查同类、外联跟进和话术，英文附中文意思）；首页「今天最值得看的 5 件事」（点一条直接跳到那一行）；国内抖音、小红书改为只用付费接口、不再用你的账号，国内每月上限 ¥20、钱多花在便宜的抖音评论上；设置里显示本月国内付费花费和每天读到的评论数。",
+    "pub_date":  "2026-10-23T05:36:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUk8zbTJxRkMwUkhQWlY2RmNqTnZ5TFNIdnY0bXBHTlJVUTZGSzBxa1ZzY0lqWWJ3QnRBT2hjVmFLZmxVMVFzR3I5MDZ4c0Z6WDVxNkQ2Qi85OHlZRG45R3hIRXhxdXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgyMTQ1CWZpbGU66KeC5r6cXzAuOS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMwpXWGQ2S1FaYlJleXIwUXZCNlB3b3VpWDZKZWhNaS9ZRUtQS1d6ZjNPem9EZnFjTW9rVCtJZzJIVmhIR2lndkJxUXg0VldPRWlyTDFjbnVyNWMxSjhBQT09Cg==",
-                                             "url":  "https://github.com/KirinWhip/guanlan-releases/releases/download/v0.9.3/Guanlan_0.9.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUk8zbTJxRkMwUkx4VXlLWnF2UDZua1NJbXlmcDhrcGpUZ3RBUDVIZzRzcTdiYTZmY0x1TnFpbVFmQkJwSEZFYVo3NlpxQ3lmQ3ZZb0IxanAzb0ltMzFmR2VvOEhKNEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzMzNzYwCWZpbGU66KeC5r6cXzAuOS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuNAptbXlveERJWDVvM2hjSEVEcjhzVUI0MUt5YXFpR2Rtd0pNQlJIcS9GMk0wd3Qyc3YxYWhlVWpsbHhGWWpyNFo5Yjh6clRFTEprTlBUaWlsYnVibDNEQT09Cg==",
+                                             "url":  "https://github.com/KirinWhip/guanlan-releases/releases/download/v0.9.4/Guanlan_0.9.4_x64-setup.exe"
                                          }
                   }
 }
