@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.4",
-    "notes":  "观澜 0.9.4：找达人（原达人雷达搬进观澜：按关键词找 YouTube 博主、AI 挑词反查同类、外联跟进和话术，英文附中文意思）；首页「今天最值得看的 5 件事」（点一条直接跳到那一行）；国内抖音、小红书改为只用付费接口、不再用你的账号，国内每月上限 ¥20、钱多花在便宜的抖音评论上；设置里显示本月国内付费花费和每天读到的评论数。",
-    "pub_date":  "2026-10-23T05:36:00Z",
+    "version":  "0.9.5",
+    "notes":  "观澜 0.9.5（第四期 H1 知识底座）：新增浅色主题「竹青」（设置 → 外观：深色 / 浅色 / 跟随系统）；左侧导航分成「每日经营 / 市场情报 / 知识 / 工具」，带待处理数量；品牌档案（AI 读三个资料文件夹和网站整理，每条标出处，冲突标红给你裁决，只有审过的才拿去回复客户，可退回旧版本）；经验库；回复规则和回复样例库；需求卡、话题深挖可以「收进经验库」；领域可以暂停采集（高考志愿已暂停）；设置里付费采集的说明文字修正。",
+    "pub_date":  "2026-10-23T09:45:03Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUk8zbTJxRkMwUkx4VXlLWnF2UDZua1NJbXlmcDhrcGpUZ3RBUDVIZzRzcTdiYTZmY0x1TnFpbVFmQkJwSEZFYVo3NlpxQ3lmQ3ZZb0IxanAzb0ltMzFmR2VvOEhKNEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzMzNzYwCWZpbGU66KeC5r6cXzAuOS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuNAptbXlveERJWDVvM2hjSEVEcjhzVUI0MUt5YXFpR2Rtd0pNQlJIcS9GMk0wd3Qyc3YxYWhlVWpsbHhGWWpyNFo5Yjh6clRFTEprTlBUaWlsYnVibDNEQT09Cg==",
-                                             "url":  "https://github.com/KirinWhip/guanlan-releases/releases/download/v0.9.4/Guanlan_0.9.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUk8zbTJxRkMwUk5QUE15WVM2VmRzeE1JSXBRUG5QaThtYnh3MGV4NERWS2dDa0hRQmVDRWgvaWRSM3ZzajJtVDE2amNmQ3VXNVNzZnk4R0diVldkVTk1cURBd1pabWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzQ4NzAzCWZpbGU66KeC5r6cXzAuOS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuNQoySS9lTThrMC9NU2Y1TXl4YStvMy9iWUNOYW5hQmFSNzQxV2dOdEZVRzlRY1F4UGpEaEtmbStocVNYWit0cXRtcGpqL09FYUlMdUt3ZkN3a1pEUnFBUT09Cg==",
+                                             "url":  "https://github.com/KirinWhip/guanlan-releases/releases/download/v0.9.5/Guanlan_0.9.5_x64-setup.exe"
                                          }
                   }
 }
