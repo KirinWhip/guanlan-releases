@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.11",
-    "notes":  "体验优化：新闻只显示摘要、每条可展开全文；国内/海外热点默认看全部，新增全站热门（B 站 + 抖音），视频在观澜里直接播放；海外爆款商品点开看详情（大图、名次变化、中文卖点）；修正亚马逊价格少小数点",
-    "pub_date":  "2026-10-25T16:59:23Z",
+    "version":  "0.9.12",
+    "notes":  "新增「下载」：贴链接或手机分享口令就能下抖音、快手、小红书、B 站、YouTube、TikTok 等的视频（不登录、无水印、不重新压缩），各页面视频旁边也有下载按钮；主页批量下载；文案提取（视频转文字、点一句跳到那一秒、AI 校对、总结和拆解爆款结构）。换了新图标「海上日出」。",
+    "pub_date":  "2026-10-26T06:13:32Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUk8zbTJxRkMwUk82WEpSOHNrbkl3aXd6WFE0bThRci9ZNzFHcFJnZEZralRPWm9sMHJKdWtWcTlpVEpaYzVmWkIzWHU1ZFRFQlJGb3ZzTEZZbExuV1RIdlhRcFduQXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQ3NTYyCWZpbGU66KeC5r6cXzAuOS4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjExCmV1cU5xclJJQXI5alVYRUJ5THlMaEZNQkEydEEydC9QRUQ5V0Q0TnFKSHhXZzFob1l6Y0xMZHZDNTR5VVY3ci9rd29hYXZpb213UVN6ZXU4ak5McEFnPT0K",
-                                             "url":  "https://github.com/KirinWhip/guanlan-releases/releases/download/v0.9.11/Guanlan_0.9.11_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUk8zbTJxRkMwUk10NTJGQVhZbVJMdHZmVGVwWFhkdm1vWHJaVlVXbmExNSs3TTlycXl1VnNmOVpETEg2c05RbW4rMEVsMVRVNjhBclQyekdnQ2Rra1pkK29zYjBFMGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTk1MjEyCWZpbGU66KeC5r6cXzAuOS4xMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjEyCkxhQlcrbkZreng1Q0R6dktaY2Uxa3dQU3lMTEUvSGsyZzB4R25NMlJTNXFvQ1pPemlWSms1aWNaRTdyZWdzRkpkWWcwaUFXbHRMLzlNcUJxZWN2eERnPT0K",
+                                             "url":  "https://github.com/KirinWhip/guanlan-releases/releases/download/v0.9.12/Guanlan_0.9.12_x64-setup.exe"
                                          }
                   }
 }
