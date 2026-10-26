@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.5",
-    "notes":  "观澜 0.9.5（第四期 H1 知识底座）：新增浅色主题「竹青」（设置 → 外观：深色 / 浅色 / 跟随系统）；左侧导航分成「每日经营 / 市场情报 / 知识 / 工具」，带待处理数量；品牌档案（AI 读三个资料文件夹和网站整理，每条标出处，冲突标红给你裁决，只有审过的才拿去回复客户，可退回旧版本）；经验库；回复规则和回复样例库；需求卡、话题深挖可以「收进经验库」；领域可以暂停采集（高考志愿已暂停）；设置里付费采集的说明文字修正。",
-    "pub_date":  "2026-10-23T09:45:03Z",
+    "version":  "0.9.11",
+    "notes":  "体验优化：新闻只显示摘要、每条可展开全文；国内/海外热点默认看全部，新增全站热门（B 站 + 抖音），视频在观澜里直接播放；海外爆款商品点开看详情（大图、名次变化、中文卖点）；修正亚马逊价格少小数点",
+    "pub_date":  "2026-10-25T16:59:23Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUk8zbTJxRkMwUk5QUE15WVM2VmRzeE1JSXBRUG5QaThtYnh3MGV4NERWS2dDa0hRQmVDRWgvaWRSM3ZzajJtVDE2amNmQ3VXNVNzZnk4R0diVldkVTk1cURBd1pabWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzQ4NzAzCWZpbGU66KeC5r6cXzAuOS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuNQoySS9lTThrMC9NU2Y1TXl4YStvMy9iWUNOYW5hQmFSNzQxV2dOdEZVRzlRY1F4UGpEaEtmbStocVNYWit0cXRtcGpqL09FYUlMdUt3ZkN3a1pEUnFBUT09Cg==",
-                                             "url":  "https://github.com/KirinWhip/guanlan-releases/releases/download/v0.9.5/Guanlan_0.9.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUk8zbTJxRkMwUk82WEpSOHNrbkl3aXd6WFE0bThRci9ZNzFHcFJnZEZralRPWm9sMHJKdWtWcTlpVEpaYzVmWkIzWHU1ZFRFQlJGb3ZzTEZZbExuV1RIdlhRcFduQXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQ3NTYyCWZpbGU66KeC5r6cXzAuOS4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjExCmV1cU5xclJJQXI5alVYRUJ5THlMaEZNQkEydEEydC9QRUQ5V0Q0TnFKSHhXZzFob1l6Y0xMZHZDNTR5VVY3ci9rd29hYXZpb213UVN6ZXU4ak5McEFnPT0K",
+                                             "url":  "https://github.com/KirinWhip/guanlan-releases/releases/download/v0.9.11/Guanlan_0.9.11_x64-setup.exe"
                                          }
                   }
 }
